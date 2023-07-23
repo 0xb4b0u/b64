@@ -1,6 +1,7 @@
-# Python 🐍 base64 encoder/decoder CLI tool
+# Python base64 encoder/decoder CLI tool
 
-### I made this tool to learn how to use the args parsing in python. If you think I could add some features, feel free to open an issue or a pull request !
+### I made this tool to learn how to use the args parsing in Python 🤓
+### If you think I could add some features, feel free to open an issue or a pull request!
 
 ## Usage 📖
 ```bash
